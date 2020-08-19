@@ -14,4 +14,7 @@ This notebook calculates the **Flesch score**, grade and ease of famous US speec
 ### Extracting jargon
 This notebook extracts the jargon from job descriptions with **NLTK**. Ngrams are also computed.
 
+### Automatic Terminology Extraction of data science job descriptions
+Project elaborated with _Anwesha Tomar_ and _Marta Matosas Fonolleda_. This project addresses the question if data science terminology found in job descriptions changes across different US cities and different industries.
+
 
